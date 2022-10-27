@@ -1,12 +1,4 @@
-/**
- * @name Lykcord
- * @version 5.0.0
- * @description just Lykcord so yeah
- * @author Lykcord
- * 
- */
-
- @import url("https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/fonts/google-sans.css");
+@import url("https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/fonts/google-sans.css");
 @import url("https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/icons.css");
 :root {
   --app-font: "Google Sans";
